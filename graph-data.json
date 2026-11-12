@@ -1,0 +1,60 @@
+{
+  "title": "ND Tracker shared figures — 8 Pocket pallets per day",
+  "updated": "2026-11-12 4:34 PM EST",
+  "timezone": "America/New_York",
+  "machine": "8 Pocket",
+  "crew_leaders": {
+    "A": "John Villers",
+    "B": "Kenny Decker",
+    "C": "Tony",
+    "D": "Erik Reed"
+  },
+  "colors": {
+    "A": "#F1A983",
+    "B": "#C57FBE",
+    "C": "#0070C0",
+    "D": "#FFFF00"
+  },
+  "history_starts": "2026-10-03",
+  "this_block": {
+    "start": "2026-11-12",
+    "end": "2026-11-15",
+    "day_crew": "B",
+    "night_crew": "D",
+    "pairing": "B/D",
+    "in_progress": true,
+    "day": [null, null, null, null],
+    "night": [null, null, null, null]
+  },
+  "last_block": {
+    "start": "2026-11-08",
+    "end": "2026-11-11",
+    "day_crew": "A",
+    "night_crew": "C",
+    "pairing": "A/C",
+    "day": [47, 60, 55, 63],
+    "night": [56, 49, 65, 44],
+    "day_total": 225,
+    "night_total": 214,
+    "highest_daily": 65
+  },
+  "blocks": [
+    {"start": "2026-10-03", "end": "2026-10-06", "day_crew": "D", "night_crew": "B", "pairing": "D/B", "day": [45, 29, 43, 26], "night": [52, 42, 54, 63], "day_total": 143, "night_total": 211},
+    {"start": "2026-10-07", "end": "2026-10-10", "day_crew": "A", "night_crew": "C", "pairing": "A/C", "day": [56, 24, 10, 36], "night": [40, 26, 43, 34], "day_total": 126, "night_total": 143},
+    {"start": "2026-10-11", "end": "2026-10-14", "day_crew": "B", "night_crew": "D", "pairing": "B/D", "day": [40, 2, 82, 46], "night": [20, 58, 61, 63], "day_total": 170, "night_total": 202},
+    {"start": "2026-10-15", "end": "2026-10-18", "day_crew": "C", "night_crew": "A", "pairing": "C/A", "day": [71, 69, 16, 29], "night": [65, 56, 57, 12], "day_total": 185, "night_total": 190},
+    {"start": "2026-10-19", "end": "2026-10-22", "day_crew": "D", "night_crew": "B", "pairing": "D/B", "day": [37, 39, 48, 48], "night": [12, 49, 27, 14], "day_total": 172, "night_total": 102},
+    {"start": "2026-10-23", "end": "2026-10-26", "day_crew": "A", "night_crew": "C", "pairing": "A/C", "day": [32, 8, 27, 18], "night": [25, 23, 51, 21], "day_total": 85, "night_total": 120},
+    {"start": "2026-10-27", "end": "2026-10-30", "day_crew": "B", "night_crew": "D", "pairing": "B/D", "day": [42, 39, 39, 36], "night": [59, null, 56, 59], "day_total": 156},
+    {"start": "2026-10-31", "end": "2026-11-03", "day_crew": "C", "night_crew": "A", "pairing": "C/A", "day": [25, 68, 50, 56], "night": [70, 34, 68, 49], "day_total": 199},
+    {"start": "2026-11-04", "end": "2026-11-07", "day_crew": "D", "night_crew": "B", "pairing": "D/B", "day": [57, 49, 57, 74], "night": [72, 47, 73, 56], "day_total": 237, "night_total": 248},
+    {"start": "2026-11-08", "end": "2026-11-11", "day_crew": "A", "night_crew": "C", "pairing": "A/C", "day": [47, 60, 55, 63], "night": [56, 49, 65, 44], "day_total": 225, "night_total": 214}
+  ],
+  "entries": [],
+  "notes": {
+    "null_means": "unworked or unknown — not zero",
+    "Oct_28_D_Night": "gap, not zero",
+    "Oct_31_Nov_3_A_Night": "daily points only; no forced block total",
+    "Nov_12_15": "in progress; no finished totals in this file"
+  }
+}
