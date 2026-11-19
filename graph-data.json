@@ -1,6 +1,6 @@
 {
   "title": "ND Tracker shared figures — 8 Pocket pallets per day",
-  "updated": "2026-11-12 4:34 PM EST",
+  "updated": "2026-11-19 4:22 PM EST",
   "timezone": "America/New_York",
   "machine": "8 Pocket",
   "crew_leaders": {
@@ -17,26 +17,26 @@
   },
   "history_starts": "2026-10-03",
   "this_block": {
+    "start": "2026-11-16",
+    "end": "2026-11-19",
+    "day_crew": "C",
+    "night_crew": "A",
+    "pairing": "C/A",
+    "in_progress": true,
+    "day": [69, 42, 44, null],
+    "night": [50, 41, null, null]
+  },
+  "last_block": {
     "start": "2026-11-12",
     "end": "2026-11-15",
     "day_crew": "B",
     "night_crew": "D",
     "pairing": "B/D",
-    "in_progress": true,
-    "day": [null, null, null, null],
-    "night": [null, null, null, null]
-  },
-  "last_block": {
-    "start": "2026-11-08",
-    "end": "2026-11-11",
-    "day_crew": "A",
-    "night_crew": "C",
-    "pairing": "A/C",
-    "day": [47, 60, 55, 63],
-    "night": [56, 49, 65, 44],
-    "day_total": 225,
-    "night_total": 214,
-    "highest_daily": 65
+    "day": [62, 59, 69, 52],
+    "night": [61, 57, 61, 65],
+    "day_total": 242,
+    "night_total": 244,
+    "highest_daily": 69
   },
   "blocks": [
     {"start": "2026-10-03", "end": "2026-10-06", "day_crew": "D", "night_crew": "B", "pairing": "D/B", "day": [45, 29, 43, 26], "night": [52, 42, 54, 63], "day_total": 143, "night_total": 211},
@@ -48,13 +48,16 @@
     {"start": "2026-10-27", "end": "2026-10-30", "day_crew": "B", "night_crew": "D", "pairing": "B/D", "day": [42, 39, 39, 36], "night": [59, null, 56, 59], "day_total": 156},
     {"start": "2026-10-31", "end": "2026-11-03", "day_crew": "C", "night_crew": "A", "pairing": "C/A", "day": [25, 68, 50, 56], "night": [70, 34, 68, 49], "day_total": 199},
     {"start": "2026-11-04", "end": "2026-11-07", "day_crew": "D", "night_crew": "B", "pairing": "D/B", "day": [57, 49, 57, 74], "night": [72, 47, 73, 56], "day_total": 237, "night_total": 248},
-    {"start": "2026-11-08", "end": "2026-11-11", "day_crew": "A", "night_crew": "C", "pairing": "A/C", "day": [47, 60, 55, 63], "night": [56, 49, 65, 44], "day_total": 225, "night_total": 214}
+    {"start": "2026-11-08", "end": "2026-11-11", "day_crew": "A", "night_crew": "C", "pairing": "A/C", "day": [47, 60, 55, 63], "night": [56, 49, 65, 44], "day_total": 225, "night_total": 214},
+    {"start": "2026-11-12", "end": "2026-11-15", "day_crew": "B", "night_crew": "D", "pairing": "B/D", "day": [62, 59, 69, 52], "night": [61, 57, 61, 65], "day_total": 242, "night_total": 244}
   ],
   "entries": [],
   "notes": {
     "null_means": "unworked or unknown — not zero",
     "Oct_28_D_Night": "gap, not zero",
     "Oct_31_Nov_3_A_Night": "daily points only; no forced block total",
-    "Nov_12_15": "in progress; no finished totals in this file"
+    "Nov_18_A_Night": "gap: Nov 18 19-24 has 5 yellow (D) cells with out-of-sequence numbers (2407, 2410, 2416, 2420, 2532) on an A night, so the colour-legend method will not credit a night total",
+    "Nov_19_C_Day": "in progress at the 4:17 PM EST download; left blank",
+    "Nov_19_A_Night": "not yet run; left blank"
   }
 }
