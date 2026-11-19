@@ -1,6 +1,6 @@
 {
   "title": "ND Tracker shared figures — 8 Pocket pallets per day",
-  "updated": "2026-11-19 4:22 PM EST",
+  "updated": "2026-11-19 4:41 PM EST",
   "timezone": "America/New_York",
   "machine": "8 Pocket",
   "crew_leaders": {
@@ -24,7 +24,7 @@
     "pairing": "C/A",
     "in_progress": true,
     "day": [69, 42, 44, null],
-    "night": [50, 41, null, null]
+    "night": [50, 41, 61, null]
   },
   "last_block": {
     "start": "2026-11-12",
@@ -56,7 +56,7 @@
     "null_means": "unworked or unknown — not zero",
     "Oct_28_D_Night": "gap, not zero",
     "Oct_31_Nov_3_A_Night": "daily points only; no forced block total",
-    "Nov_18_A_Night": "gap: Nov 18 19-24 has 5 yellow (D) cells with out-of-sequence numbers (2407, 2410, 2416, 2420, 2532) on an A night, so the colour-legend method will not credit a night total",
+    "Nov_18_A_Night": "A-coloured pallets only: 31 (Nov 18 19-24, #58-88) + 30 (Nov 19 00-07, #1-30) = 61; 5 stray yellow cells (2407-2532, different number series) excluded",
     "Nov_19_C_Day": "in progress at the 4:17 PM EST download; left blank",
     "Nov_19_A_Night": "not yet run; left blank"
   }
